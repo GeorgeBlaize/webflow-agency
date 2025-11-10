@@ -146,6 +146,9 @@ body{
   padding:80px 60px;
   gap:40px;
 }
+#contact{
+    font-size: 100px;
+}
 .contact-right{
   width:40%;
   display:flex;
