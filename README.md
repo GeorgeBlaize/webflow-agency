@@ -64,8 +64,10 @@ Review item layout
 
 Contact form inputs
 
-```
+
 🗂️ Folder Structure
+---
+```
 project/
 │── index.html
 │── style.css
@@ -83,18 +85,16 @@ Make sure all image paths match your project file system.
 🛠️ Technologies Used
 ---
 
-```
-Technology	      Purpose
+| Technology                            | Purpose                             |
+| ------------------------------------- | ----------------------------------- |
+| **HTML5**                             | Page structure                      |
+| **CSS3**                              | Layout, styling, responsive design  |
+| **Flexbox**                           | Alignment & layout adjustments      |
+| **Media Queries**                     | Tablet + Mobile responsiveness      |
+| **System Fonts**                      | Clean, fast-loading typography      |
 
- HTML5            Page structure
 
- CSS3	            Layout, styling, responsive design
 
- Flexbox          Alignment & layout adjustments
-
- Media Queries	  Tablet + Mobile responsiveness
- System Fonts	    Clean, fast-loading typography
-```
 📸 Project Preview
 ---
 
