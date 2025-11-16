@@ -127,6 +127,7 @@ code .
 🧩 Customization Guide
 ---
 ✔ Change Logo
+
 <div class="logo">LOGO</div>
 
 ✔ Update Colors
@@ -135,7 +136,7 @@ Modify #4255FF, backgrounds, and text colors in style.css.
 
 ✔ Replace Images
 
-Upload your own images in /Assets or /images.
+Upload your own images in /assets or /images.
 
 ✔ Edit Text
 
