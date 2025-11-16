@@ -128,7 +128,9 @@ code .
 ---
 ✔ Change Logo
 
+```
 <div class="logo">LOGO</div>
+```
 
 ✔ Update Colors
 
